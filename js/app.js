@@ -22,34 +22,31 @@ var OpenStreetMap = L.tileLayer(
   }
 ).addTo(map);
 
-const sourceMarker = L.marker([32.7784, -96.78946], { draggable: true })
+const sourceMarker = L.marker([32.7778316, -96.7912601], { draggable: true })
   .on("dragend", (e) => {
     selectedPoint = e.target.getLatLng();
-    console.log(selectedPoint);
     getVertex(selectedPoint);
+    getRoute();
   })
   .addTo(map);
 
 const targetMarker = L.marker([32.779, -96.79], { draggable: true })
   .on("dragend", (e) => {
     selectedPoint = e.target.getLatLng();
-    console.log(selectedPoint);
     getVertex(selectedPoint);
+    getRoute();
   })
   .addTo(map);
 
 const getVertex = (selectedPoint) => {
   const { lat, lng } = selectedPoint;
-  const wmsUrl = `${geoserverUrl}/routed/wms?service=WMS&version=1.1.0&request=GetMap&layers=routed%3Anearest_vertex&bbox=${
-    lng - 0.01
-  },%2C${
-    lat - 0.01
-  }&width=768&height=768&srs=EPSG%3A4326&styles=&format=application/openlayers`;
+  const wmsUrl = `${geoserverUrl}/routed/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=routed:nearest_vertex&outputformat=application/json&viewparams=x:${lng};y:${lat};`;
 
   $.ajax({
     url: wmsUrl,
     async: false,
     success: (data) => {
+      console.log(data);
       loadVertex(
         data,
         selectedPoint.toString() === sourceMarker.getLatLng().toString()
@@ -60,20 +57,25 @@ const getVertex = (selectedPoint) => {
 
 // function to update the source and target nodes as returned from geoserver for later querying
 const loadVertex = (response, isSource) => {
-  var features = response.features;
-  map.removeLayer(pathLayer);
-  if (isSource) {
-    source = features[0].properties.id;
+  if (response.features) {
+    let features = response.features;
+    console.log("Features:", features);
+    map.removeLayer(pathLayer);
+    if (isSource) {
+      source = features[0].properties.id;
+    } else {
+      target = features[0].properties.id;
+    }
   } else {
-    target = features[0].properties.id;
+    console.error("Response does not contain features array.");
   }
 };
 
 // function to get the shortest path from the give source and target nodes
 function getRoute() {
-  const url = `${geoserverUrl}/routed/wms?service=WMS&version=1.1.0&request=GetMap&layers=routed%3Ashortest_path&bbox=${source}%2C${target}&width=768&height=661&srs=EPSG%3A4326&styles=&format=application/openlayers`;
+  let url = `${geoserverUrl}/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=routed:shortest_path&outputformat=application/json&viewparams=source:${source};target:${target};`;
 
-  $.getJSON(url, (data) => {
+  $.getJSON(url, function (data) {
     map.removeLayer(pathLayer);
     pathLayer = L.geoJSON(data);
     map.addLayer(pathLayer);
@@ -83,20 +85,3 @@ function getRoute() {
 getVertex(sourceMarker.getLatLng());
 getVertex(targetMarker.getLatLng());
 getRoute();
-
-// // define a blank geoJSON Layer
-// var buildings = L.geoJSON(null);
-
-// //get the geojson data with ajax, and add it to the blank layer we created
-// $.getJSON('../data/bui.geojson',function(data){
-// 	buildings.addData(data);
-// 	map.fitBounds(buildings.getBounds());
-// });
-
-// // finally add the layer to the map
-// buildings.addTo(map);
-
-// http://localhost:8080/geoserver/routed/wms?
-// service=WMS&version=1.1.0&request=GetMap&layers=routed%3Anearest_vertex&
-// bbox=-97.7912601%2C31.7778316%2C-95.7912601%2C33.7778316&width=768&height=768&srs=EPSG%3A4326&
-// styles=&format=application/openlayers
