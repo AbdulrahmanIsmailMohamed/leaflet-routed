@@ -1,0 +1,1283 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.5202796459198, 30.587233051962436, 0, 0]
+      },
+      "properties": {
+        "FID": 0,
+        "_ID": 1,
+        "_REC_TIME": "02/24/2024 10:51:37.760 GMT+02:00",
+        "_LATITUDE": 30.587233051999998,
+        "_LONGITUDE": 31.520279645999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الزقازيق العسكري",
+        "numper_o_1": 5,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_105243563.jpg",
+        "address": "أسفل كوبري الزراعه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.508813872933391, 30.589931651370158, 0, 0]
+      },
+      "properties": {
+        "FID": 1,
+        "_ID": 2,
+        "_REC_TIME": "02/24/2024 11:05:33.822 GMT+02:00",
+        "_LATITUDE": 30.589931651000001,
+        "_LONGITUDE": 31.508813873000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "قسم اول الزقازيق مدريه الأمن",
+        "numper_o_1": 3,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_110637616.jpg",
+        "address": "منزل كوبري الصاغه",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.500343456864361, 30.594318230321704, 0, 0]
+      },
+      "properties": {
+        "FID": 2,
+        "_ID": 3,
+        "_REC_TIME": "02/24/2024 11:14:43.030 GMT+02:00",
+        "_LATITUDE": 30.594318229999999,
+        "_LONGITUDE": 31.500343457,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "عيادات قصر الحياه التخصصي",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_111549743.jpg",
+        "address": "طريق موقف المنصوره امام شركه الجمهوريه للادويه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.499623283743858, 30.594739590042806, 0, 0]
+      },
+      "properties": {
+        "FID": 3,
+        "_ID": 4,
+        "_REC_TIME": "02/24/2024 11:17:12.544 GMT+02:00",
+        "_LATITUDE": 30.59473959,
+        "_LONGITUDE": 31.499623283999998,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز الصفوه",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_111806968.jpg",
+        "address": "طريق موقف المنصوره أعلى معرض ربيع الحصري للسيارات",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.50464370846748, 30.588512803551033, 0, 0]
+      },
+      "properties": {
+        "FID": 4,
+        "_ID": 5,
+        "_REC_TIME": "02/24/2024 11:27:21.406 GMT+02:00",
+        "_LATITUDE": 30.588512804000001,
+        "_LONGITUDE": 31.504643708,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "إدارة الحمايه المدنيه قسم أطفاء المدينه",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_112938155.jpg",
+        "address": "امام كوبري نقابه المحامين بجوار البريد جنوب الشرقيه",
+        "type": "fire station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.50911562144756, 30.592822677122427, 0, 0]
+      },
+      "properties": {
+        "FID": 5,
+        "_ID": 6,
+        "_REC_TIME": "02/24/2024 11:39:29.913 GMT+02:00",
+        "_LATITUDE": 30.592822677000001,
+        "_LONGITUDE": 31.509115620999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الزقازيق العام",
+        "numper_o_1": 4,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_114052777.jpg",
+        "address": "القنطره بجوار سجن الزقازيق",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.511905789375309, 30.595640023853488, 0, 0]
+      },
+      "properties": {
+        "FID": 6,
+        "_ID": 7,
+        "_REC_TIME": "02/24/2024 11:43:19.451 GMT+02:00",
+        "_LATITUDE": 30.595640024000001,
+        "_LONGITUDE": 31.511905789,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز الريحان الطبي ومركز الصفا والمروة",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_114510391.jpg",
+        "address": "كوبري المعلمات أعلى مسجد الصفا والمروة",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.513212695717812, 30.598553389376896, 0, 0]
+      },
+      "properties": {
+        "FID": 7,
+        "_ID": 8,
+        "_REC_TIME": "02/24/2024 11:49:51.928 GMT+02:00",
+        "_LATITUDE": 30.598553388999999,
+        "_LONGITUDE": 31.513212696,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز الفردوس الطبي الخيري",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_115059840.jpg",
+        "address": "كفر الزقازيق البحري بعد جامع ابو طعيمه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.522097848355774, 30.597944749969901, 0, 0]
+      },
+      "properties": {
+        "FID": 8,
+        "_ID": 9,
+        "_REC_TIME": "02/24/2024 11:58:09.730 GMT+02:00",
+        "_LATITUDE": 30.59794475,
+        "_LONGITUDE": 31.522097848000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الرمد الجراحه العيون",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_115939722.jpg",
+        "address": "اول طريق هريه بعد المعهد الفني الصناعي",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.51039436459541, 30.589696140232487, 0, 0]
+      },
+      "properties": {
+        "FID": 9,
+        "_ID": 10,
+        "_REC_TIME": "02/24/2024 12:07:39.055 GMT+02:00",
+        "_LATITUDE": 30.589696140000001,
+        "_LONGITUDE": 31.510394365,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "عياده النهضه الطيبه",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_120844414.jpg",
+        "address": "أسفل كوبري الصاغه بعد مدريه الأمن امام شركه اتصالات",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.505860760807991, 30.594929778522236, 0, 0]
+      },
+      "properties": {
+        "FID": 10,
+        "_ID": 11,
+        "_REC_TIME": "02/24/2024 12:21:14.698 GMT+02:00",
+        "_LATITUDE": 30.594929779000001,
+        "_LONGITUDE": 31.505860761000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "اداره شرطه النجده الترحيلات",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_122232749.jpg",
+        "address": "كفر الاشاره اخر شارع أبو نضاره",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.504977978765965, 30.59570091827387, 0, 0]
+      },
+      "properties": {
+        "FID": 11,
+        "_ID": 12,
+        "_REC_TIME": "02/24/2024 12:25:31.661 GMT+02:00",
+        "_LATITUDE": 30.595700917999999,
+        "_LONGITUDE": 31.504977979,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "عياده الرحمه الطبيه",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\خط الزراعه الصاغه_20240224_122625724.jpg",
+        "address": "كفر الاشاره خلف مطعم وجدي بجوار مسجد الرحمه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.500374302268032, 30.567268009907089, 0, 0]
+      },
+      "properties": {
+        "FID": 12,
+        "_ID": 1,
+        "_REC_TIME": "02/24/2024 13:18:51.882 GMT+02:00",
+        "_LATITUDE": 30.567268009999999,
+        "_LONGITUDE": 31.500374302000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "إدارة الحماية المدنية",
+        "numper_o_1": 3,
+        "photo": "\\Photos\\project2_20240224_132020852.jpg",
+        "address": "بجوار موقف الاحرار",
+        "type": "fire station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.501557491719726, 30.566068233005204, 0, 0]
+      },
+      "properties": {
+        "FID": 13,
+        "_ID": 2,
+        "_REC_TIME": "02/24/2024 13:24:20.604 GMT+02:00",
+        "_LATITUDE": 30.566068232999999,
+        "_LONGITUDE": 31.501557492,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي الاحرار التعليمي",
+        "numper_o_1": 7,
+        "photo": "\\Photos\\project2_20240224_132653534.jpg",
+        "address": "طريق الاحرار",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.501617841422561, 30.566807269617964, 0, 0]
+      },
+      "properties": {
+        "FID": 14,
+        "_ID": 3,
+        "_REC_TIME": "02/24/2024 13:28:25.925 GMT+02:00",
+        "_LATITUDE": 30.566807270000002,
+        "_LONGITUDE": 31.501617841000002,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز أورام الاحرار التعليمي",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\project2_20240224_132855935.jpg",
+        "address": "طريق الاحرار",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.509477049112316, 30.571938799818398, 0, 0]
+      },
+      "properties": {
+        "FID": 15,
+        "_ID": 4,
+        "_REC_TIME": "02/24/2024 13:33:01.679 GMT+02:00",
+        "_LATITUDE": 30.571938800000002,
+        "_LONGITUDE": 31.509477049000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي الصدر بالزقازيق",
+        "numper_o_1": 3,
+        "photo": "\\Photos\\project2_20240224_133353428.jpg",
+        "address": "كوبري الاحرار او الصدر",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.508864164352421, 30.572562324594113, 0, 0]
+      },
+      "properties": {
+        "FID": 16,
+        "_ID": 5,
+        "_REC_TIME": "02/24/2024 13:35:33.498 GMT+02:00",
+        "_LATITUDE": 30.572562325,
+        "_LONGITUDE": 31.508864163999998,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "اداراة المعامل و المعمل الإقليمي المشترك ( التابع بمدرية الصحة )",
+        "numper_o_1": 3,
+        "photo": " ",
+        "address": "كوبري الاحرار و الصدر",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.515655517578125, 30.578667748210147, 0, 0]
+      },
+      "properties": {
+        "FID": 17,
+        "_ID": 6,
+        "_REC_TIME": "02/24/2024 13:41:11.257 GMT+02:00",
+        "_LATITUDE": 30.578667748000001,
+        "_LONGITUDE": 31.515655517999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "نقطة إطفاء السوق",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\project2_20240224_134349430.jpg",
+        "address": "شارع التجنيد بجوار السجل المدني",
+        "type": "fire station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.519390158355236, 30.583449402495408, 0, 0]
+      },
+      "properties": {
+        "FID": 18,
+        "_ID": 7,
+        "_REC_TIME": "02/24/2024 13:47:53.461 GMT+02:00",
+        "_LATITUDE": 30.583449401999999,
+        "_LONGITUDE": 31.519390158,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "عيادات مستقفل وطن التخصصية",
+        "numper_o_1": 7,
+        "photo": "\\Photos\\project2_20240224_134908964.jpg",
+        "address": "بجوار كلية زراعة و أمام كلية الطب البيطري الدور الثالث",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.514398232102394, 30.577751569491795, 0, 0]
+      },
+      "properties": {
+        "FID": 19,
+        "_ID": 8,
+        "_REC_TIME": "02/24/2024 13:54:20.128 GMT+02:00",
+        "_LATITUDE": 30.577751569,
+        "_LONGITUDE": 31.514398232000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "نقطة شرطة سوق الجملة",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\project2_20240224_135455441.jpg",
+        "address": " شارع فاروق",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.510494276881214, 30.579593154977108, 0, 0]
+      },
+      "properties": {
+        "FID": 20,
+        "_ID": 9,
+        "_REC_TIME": "02/24/2024 13:59:37.137 GMT+02:00",
+        "_LATITUDE": 30.579593155000001,
+        "_LONGITUDE": 31.510494276999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستوصف الجمعية الشرعية",
+        "numper_o_1": 4,
+        "photo": "\\Photos\\project2_20240224_140018018.jpg",
+        "address": "شارع الأسيوطي متفرع من شارع فاروق",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.508334763348099, 30.573243289896954, 0, 0]
+      },
+      "properties": {
+        "FID": 21,
+        "_ID": 10,
+        "_REC_TIME": "02/24/2024 14:15:57.046 GMT+02:00",
+        "_LATITUDE": 30.573243290000001,
+        "_LONGITUDE": 31.508334763000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي الحميات و الجهاز الهضمي و الكبد بالزقايق",
+        "numper_o_1": 0,
+        "photo": "\\Photos\\project2_20240224_141711555.jpg",
+        "address": "حي الحميات",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.507338993251327, 30.574688918064812, 0, 0]
+      },
+      "properties": {
+        "FID": 22,
+        "_ID": 11,
+        "_REC_TIME": "02/24/2024 14:24:48.653 GMT+02:00",
+        "_LATITUDE": 30.574688918,
+        "_LONGITUDE": 31.507338993000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "عيادات مكة الخيرية",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\project2_20240224_142536276.jpg",
+        "address": "الحميات شارع مكة",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.477609053254128, 30.589571746251142, 0, 0]
+      },
+      "properties": {
+        "FID": 23,
+        "_ID": 1,
+        "_REC_TIME": "02/25/2024 08:42:09.805 GMT+02:00",
+        "_LATITUDE": 30.589571746000001,
+        "_LONGITUDE": 31.477609052999998,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الجامعه قطاع السلام ( صيدناوي )",
+        "numper_o_1": 5,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_084407407.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.482851095497608, 30.584407090490039, 0, 0]
+      },
+      "properties": {
+        "FID": 24,
+        "_ID": 2,
+        "_REC_TIME": "02/25/2024 12:00:16.107 GMT+02:00",
+        "_LATITUDE": 30.584407089999999,
+        "_LONGITUDE": 31.482851095000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "الهلال الاحمر",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_120039158.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.483104228973389, 30.584317037049036, 0, 0]
+      },
+      "properties": {
+        "FID": 25,
+        "_ID": 3,
+        "_REC_TIME": "02/25/2024 12:01:43.264 GMT+02:00",
+        "_LATITUDE": 30.584317037000002,
+        "_LONGITUDE": 31.483104228999998,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "الانقاز النهري",
+        "numper_o_1": 1,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_120203947.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.489008776843551, 30.583460082009836, 0, 0]
+      },
+      "properties": {
+        "FID": 26,
+        "_ID": 4,
+        "_REC_TIME": "02/25/2024 12:10:49.891 GMT+02:00",
+        "_LATITUDE": 30.583460081999998,
+        "_LONGITUDE": 31.489008776999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى المدينة",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_121131141.jpg",
+        "address": "حي الزهور",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.488260440528389, 30.585008887779971, 0, 0]
+      },
+      "properties": {
+        "FID": 27,
+        "_ID": 5,
+        "_REC_TIME": "02/25/2024 12:18:54.897 GMT+02:00",
+        "_LATITUDE": 30.585008888000001,
+        "_LONGITUDE": 31.488260441000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الجامعة",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_121939230.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.49152435362339, 30.587048332250195, 0, 0]
+      },
+      "properties": {
+        "FID": 28,
+        "_ID": 6,
+        "_REC_TIME": "02/25/2024 12:23:52.762 GMT+02:00",
+        "_LATITUDE": 30.587048331999998,
+        "_LONGITUDE": 31.491524353999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى المبرة",
+        "numper_o_1": 5,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_122426725.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.491025127470493, 30.587351676466998, 0, 0]
+      },
+      "properties": {
+        "FID": 29,
+        "_ID": 7,
+        "_REC_TIME": "02/25/2024 12:26:38.315 GMT+02:00",
+        "_LATITUDE": 30.587351676000001,
+        "_LONGITUDE": 31.491025127,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "العيادات الخارجية بمستشفي المبرة",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_122707031.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.48962669074535, 30.588437473580477, 0, 0]
+      },
+      "properties": {
+        "FID": 30,
+        "_ID": 8,
+        "_REC_TIME": "02/25/2024 12:29:43.864 GMT+02:00",
+        "_LATITUDE": 30.588437473999999,
+        "_LONGITUDE": 31.489626691000002,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الفتح للعيون",
+        "numper_o_1": 2,
+        "photo": "\\Photos\\المحافظه صدناوي_20240225_123004765.jpg",
+        "address": "الزقازيق الشرقيه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.505068168044094, 30.590512922733662, 0, 0]
+      },
+      "properties": {
+        "FID": 31,
+        "_ID": 1,
+        "_REC_TIME": "02/25/2024 09:28:37.727 GMT+02:00",
+        "_LATITUDE": 30.590512922999999,
+        "_LONGITUDE": 31.505068168000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى العبور",
+        "numper_o_1": 9,
+        "photo": "\\Photos\\Zagazig_٢٠٢٤٠٢٢٥_٠٩٣٢٥٥٩٤٥.jpg",
+        "address": "مستشفى العبور بجوار كوبري القنطرة",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.496674999999996, 30.595881666666667, 18.399999999999999, 0
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "_ID": 3,
+        "_REC_TIME": "02/25/2024 10:05:47.000 GMT+02:00",
+        "_LATITUDE": 30.595881667,
+        "_LONGITUDE": 31.496675,
+        "_ELEVATION": 18.399999999999999,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى حمدي السيد",
+        "numper_o_1": 9,
+        "photo": "\\Photos\\Zagazig_٢٠٢٤٠٢٢٥_١٠٠٥٥٠٦٧٦.jpg",
+        "address": "مفارق المنصورة",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.496412344276909, 30.598132912015629, 0, 0]
+      },
+      "properties": {
+        "FID": 33,
+        "_ID": 9,
+        "_REC_TIME": "02/24/2024 15:26:32.650 GMT+02:00",
+        "_LATITUDE": 30.598132912000001,
+        "_LONGITUDE": 31.496412343999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى التيسير قسم الطوارئ",
+        "numper_o_1": 5,
+        "photo": "\\Photos\\Project 1_٢٠٢٤٠٢٢٤_١٥٢٩١٠٢٢٣.jpg",
+        "address": "طريق موقف المنصوره خلف مسجد القدس",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.496454253792759, 30.597725130923681, 0, 0]
+      },
+      "properties": {
+        "FID": 34,
+        "_ID": 10,
+        "_REC_TIME": "02/24/2024 15:26:43.474 GMT+02:00",
+        "_LATITUDE": 30.597725131000001,
+        "_LONGITUDE": 31.496454254,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى التيسير الدولي",
+        "numper_o_1": 10,
+        "photo": "\\Photos\\Project 1_٢٠٢٤٠٢٢٤_١٥٣٠٥٦٦٨٣.jpg",
+        "address": "طريق موقف المنصوره خلف مسجد القدس",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.491963565349575, 30.598659013465038, 0, 0]
+      },
+      "properties": {
+        "FID": 35,
+        "_ID": 11,
+        "_REC_TIME": "02/24/2024 15:35:12.392 GMT+02:00",
+        "_LATITUDE": 30.598659012999999,
+        "_LONGITUDE": 31.491963564999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "المستشفى التخصصي للحوادث والطوارئ",
+        "numper_o_1": 4,
+        "photo": "\\Photos\\Project 1_٢٠٢٤٠٢٢٤_١٥٣٦٢٣٢٠٣.jpg",
+        "address": "طريق موقف المنصوره أمام مركز المصطفى لصيانه السيارات",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.482216082513332, 30.603741243006272, 0, 0]
+      },
+      "properties": {
+        "FID": 36,
+        "_ID": 12,
+        "_REC_TIME": "02/24/2024 15:44:51.886 GMT+02:00",
+        "_LATITUDE": 30.603741243000002,
+        "_LONGITUDE": 31.482216083000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الاندلس",
+        "numper_o_1": 13,
+        "photo": "\\Photos\\Project 1_٢٠٢٤٠٢٢٤_١٥٤٥٣٢٩٨٩.jpg",
+        "address": "اخر موقف المنصوره بدايه طريق القنايات",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.504057645797726, 30.590410175914137, 0, 0]
+      },
+      "properties": {
+        "FID": 37,
+        "_ID": 13,
+        "_REC_TIME": "02/24/2024 15:54:34.640 GMT+02:00",
+        "_LATITUDE": 30.590410175999999,
+        "_LONGITUDE": 31.504057646,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "قسم شرطه ثاني الزقازيق",
+        "numper_o_1": 4,
+        "photo": " ",
+        "address": "امتداد كوبري سوارس امام نقابه المهندسين",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.485252343118194, 30.593173911971849, 0, 0]
+      },
+      "properties": {
+        "FID": 38,
+        "_ID": 1,
+        "_REC_TIME": "02/24/2024 11:08:03.360 GMT+02:00",
+        "_LATITUDE": 30.593173912000001,
+        "_LONGITUDE": 31.485252342999999,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز المهد لطب الاطفال",
+        "numper_o_1": 10,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١٠٨٢٣٠٣٩.jpg",
+        "address": "بجور المنياوي امام بنكCIB",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.485466584563252, 30.593095988162798, 0, 0]
+      },
+      "properties": {
+        "FID": 39,
+        "_ID": 2,
+        "_REC_TIME": "02/24/2024 11:11:46.186 GMT+02:00",
+        "_LATITUDE": 30.593095988000002,
+        "_LONGITUDE": 31.485466585000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي النخبه",
+        "numper_o_1": 10,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١١١٥٨٧٧٣.jpg",
+        "address": "بجور المنياوي امام بنكCIB",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.486162617802623, 30.592932347959827, 0, 0]
+      },
+      "properties": {
+        "FID": 40,
+        "_ID": 3,
+        "_REC_TIME": "02/24/2024 11:14:34.275 GMT+02:00",
+        "_LATITUDE": 30.592932348000001,
+        "_LONGITUDE": 31.486162618000002,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي صلاح سالم التخصصي",
+        "numper_o_1": 4,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١١٥٠٠٣٧٥.jpg",
+        "address": "بجوار شارع الغشام",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.48723416030407, 30.592451815608037, 0, 0]
+      },
+      "properties": {
+        "FID": 41,
+        "_ID": 4,
+        "_REC_TIME": "02/24/2024 11:17:33.940 GMT+02:00",
+        "_LATITUDE": 30.592451816000001,
+        "_LONGITUDE": 31.48723416,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مركز ألفا للعيون",
+        "numper_o_1": 11,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١١٩٢٤٧٢١.jpg",
+        "address": "بجوار المصريه بلازه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.490930244326591, 30.59319093975882, 0, 0]
+      },
+      "properties": {
+        "FID": 42,
+        "_ID": 5,
+        "_REC_TIME": "02/24/2024 11:22:56.522 GMT+02:00",
+        "_LATITUDE": 30.59319094,
+        "_LONGITUDE": 31.490930244000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي المعلمين",
+        "numper_o_1": 5,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١٢٣١٦٧٢٩.jpg",
+        "address": "خلف المصريه بلازه",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.493509188294411, 30.591347880910561, 0, 0]
+      },
+      "properties": {
+        "FID": 43,
+        "_ID": 6,
+        "_REC_TIME": "02/24/2024 11:26:54.091 GMT+02:00",
+        "_LATITUDE": 30.591347881000001,
+        "_LONGITUDE": 31.493509188000001,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي جاويش الطبي",
+        "numper_o_1": 8,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١٢٧٢٠٥١٨.jpg",
+        "address": "ميدان القوميه بجوار معرض جهازي",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.494039930403233, 30.590224885026032, 0, 0]
+      },
+      "properties": {
+        "FID": 44,
+        "_ID": 7,
+        "_REC_TIME": "02/24/2024 11:31:58.971 GMT+02:00",
+        "_LATITUDE": 30.590224885000001,
+        "_LONGITUDE": 31.49403993,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي حميده",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١٣٢٣٣٩٦٠.jpg",
+        "address": "ميدان القوميه بجوار فرع فودافون",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.496182009577748, 30.589562799114063, 0, 0]
+      },
+      "properties": {
+        "FID": 45,
+        "_ID": 8,
+        "_REC_TIME": "02/24/2024 11:36:16.375 GMT+02:00",
+        "_LATITUDE": 30.589562798999999,
+        "_LONGITUDE": 31.496182009999998,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي السلام",
+        "numper_o_1": 6,
+        "photo": "\\Photos\\po 1_٢٠٢٤٠٢٢٤_١١٣٦٢٩٨٢٦.jpg",
+        "address": "طريق الخروج من ميدان القوميه اتجاه المحافظه بجوار فرع فودافون",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.476310528555381, 30.596014170150362, 0, null]
+      },
+      "properties": {
+        "FID": 46,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "Hemida Medical Hospital",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "ميدان المنتزه, Shaibet an Nakareyah, Zagazig, Al-Sharqia Governorate 7105816",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.486519833295251, 30.577005210816885, 0, null]
+      },
+      "properties": {
+        "FID": 47,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى الفردوس للعيون",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "الزقازيق كفر محمد حسين, Al-Sharqia Governorate",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.50474439531984, 30.576311257945072, 0, null]
+      },
+      "properties": {
+        "FID": 48,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي العبور التخصصي",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGG3+JJ8، الزقازيق، الحريري، اول الزقازيق،, Zagazig 1, Al-Sharqia Governorate",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.493691262479842, 30.569244843147938, 0, null]
+      },
+      "properties": {
+        "FID": 49,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "Al Ahrar teaching hospital",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HF9V+M99، بلبيس، مركز بلبيس،, Zagazig, Al-Sharqia Governorate",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.50388780000003, 30.585112500000037, 0, null]
+      },
+      "properties": {
+        "FID": 50,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "Royal Hospital",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGP3+2HR, 23-Jul, Youssef, Zagazig 2, Al-Sharqia Governorate 7130508",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.500706900000068, 30.586622200000079, 0, null]
+      },
+      "properties": {
+        "FID": 51,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفى صفوت والى",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGP2+J7W, Al Mharis We Al Handasah St, Mosque, Zagazig 2, Al-Sharqia Governorate 7120730",
+        "type": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.520989500000042, 30.592139600000053, 0, null]
+      },
+      "properties": {
+        "FID": 52,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "اسعاف الزقازيق",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGRC+VCF, Abd El-Aziz St, Harayah Raznah, Zagazig 2, Al-Sharqia Governorate 7124333",
+        "type": "Ambulance"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.508132900000078, 30.592502000000025, 0, null]
+      },
+      "properties": {
+        "FID": 53,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "اسعاف",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGV5+265, El-Shaheed Ezz El-Deen Hafez, Kafr Al Hosr, Zagazig, Al-Sharqia Governorate 7123101",
+        "type": "Ambulance"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.47648410000005, 30.586827500000027, 0, null]
+      },
+      "properties": {
+        "FID": 54,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "شرطة",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HFPG+PM7, Cairo Rd, Shaibet an Nakareyah, Zagazig, Al-Sharqia Governorate 7104465",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.501329300000066, 30.579086000000075, 0, null]
+      },
+      "properties": {
+        "FID": 55,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "نقطه شرطه المعهد الديني",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HGH2+JGP، شارع المسلمين، اول الزقازيق،, Zagazig 1, Al-Sharqia Governorate",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.510897400000033, 30.568545900000061, 0, null]
+      },
+      "properties": {
+        "FID": 56,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "اداره الشرطه العسكرية",
+        "numper_o_1": 0,
+        "photo": " ",
+        "address": "HG96+C96، النظام، Zagazig 1, Al-Sharqia Governorate 7142251",
+        "type": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.547483257097987, 30.576277778430644, 0, null]
+      },
+      "properties": {
+        "FID": 57,
+        "_ID": 0,
+        "_REC_TIME": " ",
+        "_LATITUDE": 0,
+        "_LONGITUDE": 0,
+        "_ELEVATION": 0,
+        "_ORTHO_HT": 0,
+        "name": "مستشفي طوارئ حامعة الزقازيق",
+        "numper_o_1": 10,
+        "photo": " ",
+        "address": "طريق ابو حماد الزقازيق",
+        "type": "hospital"
+      }
+    }
+  ]
+}
